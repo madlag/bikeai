@@ -5,6 +5,8 @@ Set your OpenAI key in the [.env](.env) file, then open the [JupyterCopilot.ipyn
 
 The notebook shows how to create a `%ai` **jupyter magic** to fill a new cell with a copilot suggestion.
 
-The nice thing about jupyter is that you can play with 'magics' inside the notebook itself, you don't need any server javascript trick.
+(The nice thing about jupyter is that you can play with 'magics' inside the notebook itself, you don't need any server javascript trick.)
 
-More to come...
+You can then use the copilot to develop and augment your own magic commands...
+
+More to come.
