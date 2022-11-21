@@ -9,4 +9,4 @@ The notebook shows how to create a `%ai` **jupyter magic** to fill a new cell wi
 
 You can then use the copilot to develop and augment your own magic commands...
 
-More to come.
+*More to come.*
